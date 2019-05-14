@@ -1,6 +1,6 @@
 # HR_Turnover
 
-## Data Set:
+## Data Set
 
 ```
 -satisfaction_level (0–1)
