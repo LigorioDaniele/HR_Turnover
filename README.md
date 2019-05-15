@@ -14,6 +14,9 @@
 -sales (Department in which they work for)
 -salary (Relative level of salary)
 ```
+## Confusion Matrix
+When a classifier predicts an employee will leave, how often does that employee actually leave? This measurement is called “precision”. Random forest again outperforms the other two at about 95% precision (991 out of 1045) with logistic regression at about 51% (273 out of 540), and support vector machine at about 77% (890 out of 1150)
 
+![RF](https://user-images.githubusercontent.com/16623583/57759723-d93bfe80-76fa-11e9-8e79-3af60548cede.JPG)
 
 
