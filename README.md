@@ -17,6 +17,8 @@
 ## Confusion Matrix
 When a classifier predicts an employee will leave, how often does that employee actually leave? This measurement is called “precision”. Random forest again outperforms the other two at about 96% precision (577 out of 601) with logistic regression at about 92% (594 out of 645), and support vector machine at about 93% (592 out of 636)
 
+![RF](https://user-images.githubusercontent.com/16623583/57764556-faedb380-7703-11e9-9113-fc783d9f70c4.JPG)
+![RF2](https://user-images.githubusercontent.com/16623583/57764558-fcb77700-7703-11e9-83c1-3d86719e5cc5.JPG)
 
 
 
