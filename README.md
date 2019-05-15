@@ -19,4 +19,18 @@ When a classifier predicts an employee will leave, how often does that employee 
 
 ![RF](https://user-images.githubusercontent.com/16623583/57759723-d93bfe80-76fa-11e9-8e79-3af60548cede.JPG)
 
+![RF2](https://user-images.githubusercontent.com/16623583/57760485-ef968a00-76fb-11e9-8b4f-d9e5ca7a73d2.JPG)
 
+## Feature Importance (Random Forest)
+```
+promotion_last_5years-0.20%
+department_management-0.22%
+department_hr-0.29%
+department_RandD-0.34%
+salary_high-0.55%
+salary_low-1.35%
+Work_accident-1.46%
+last_evaluation-19.19%
+time_spend_company-25.73%
+satisfaction_level-50.65%
+```
