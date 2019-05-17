@@ -1,6 +1,4 @@
-# HR_Turnover
-
-# Goal:
+## Goal
 
 ```
 -Why are company's best and most experienced employees leaving prematurely?
